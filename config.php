@@ -2,7 +2,7 @@
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
 define('DB_SERVER', 'database-1.ct6fzgb0q2tx.ap-south-1.rds.amazonaws.com');
-define('DB_USERNAME', 'Master password');
+define('DB_USERNAME', 'masterusername');
 define('DB_PASSWORD', '123456789');
 define('DB_NAME', 'employees_db');
  
